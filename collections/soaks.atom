@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://botanistwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://botanistwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://botanistwholesale.com/collections/soaks.atom"/>
+  <title>Botanist Wholesale</title>
+  <updated>2021-05-19T19:51:43+10:00</updated>
+  <author>
+    <name>Botanist Wholesale</name>
+  </author>
+  <entry>
+    <id>https://botanistwholesale.com/products/6777937068187</id>
+    <published>2021-05-19T19:51:43+10:00</published>
+    <updated>2021-05-19T19:51:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/joy-soak"/>
+    <title>Joy Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Soak__Joy2000px72dpi.jpg?v=1621417904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<div style="text-align: center;"><strong>"Good things happen, love is real, we will be okay."</strong></div>
+<div style="text-align: center;"><strong>-Adam J. Kurtz</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>Indulge yourself with our lighthearted, invigorating Joy Soak.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.</p>
+<p>320g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic dried rose petals, dehydrated orange, orange essential oil, spearmint essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/6777937068187</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>JOYSOAK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/6777936904347</id>
+    <published>2021-05-19T19:51:42+10:00</published>
+    <updated>2021-05-19T19:51:42+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/moon-soak"/>
+    <title>Moon Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Soak__Moon2000px72dpi.jpg?v=1621417903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<div style="text-align: center;"><strong>"As if you were on fire from within, the moon lives in the lining of your skin."</strong></div>
+<div style="text-align: center;"><strong>-Pablo Neruda</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>Calm and reconnect with this indulgent, moon ritual soak. For the full moon, the new moon, or any moon in between.  Ease stress and increase euphoria.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.  Watch as your bath turns a beautiful shade of blue.</p>
+<p>280g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic blue butterfly pea flowers, dried lotus petals, rose buds, organic dried blue butterfly pea flower powder, jojoba oil, blue lotus essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/6777936904347</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>MOONSOAK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166307483</id>
+    <published>2020-08-28T13:37:01+10:00</published>
+    <updated>2020-08-28T13:37:01+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/rose-salts"/>
+    <title>Rose Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Soak_Rose_2000px72dpi.jpg?v=1598585824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Indulge and relax with this feminine and sensual, rose infused magnesium soak. </p>
+<p>Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the rose petal powder smooths skin.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or a cup of herbal tea for the ultimate evening bath.</p>
+<p>120g</p>
+<p>Ingredients: magnesium chloride, sodium chloride (pink himalayan salt), rosa centifolia (organic pink rose petal powder), dried flowers: rosa centifolia (rose), pure essential oil: pelargonium roseum (rose geranium).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166307483</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">9.00</s:price>
+      <s:sku>ROSESOAK100</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165389979</id>
+    <published>2020-08-28T13:36:43+10:00</published>
+    <updated>2020-08-28T13:36:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/bath-soak"/>
+    <title>Bath Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Soak_Bath_2000px72dpi.jpg?v=1598585806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<p>Indulge yourself with our soothing, relaxing Bath Soak.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.</p>
+<p>120g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic dried flowers (lavender, chamomile, rose, calendula), lavender essential oil, tangerine essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165389979</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">9.00</s:price>
+      <s:sku>BATHSOAK-100gnetwt</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

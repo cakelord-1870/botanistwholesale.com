@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://botanistwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://botanistwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://botanistwholesale.com/collections/all-products.atom"/>
+  <title>Botanist Wholesale</title>
+  <updated>2021-05-19T19:51:45+10:00</updated>
+  <author>
+    <name>Botanist Wholesale</name>
+  </author>
+  <entry>
+    <id>https://botanistwholesale.com/products/6777937166491</id>
+    <published>2021-05-19T19:51:45+10:00</published>
+    <updated>2021-05-19T19:51:45+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/boheme-roller"/>
+    <title>Bohème Roller</title>
+    <s:type>Essential Oil Rollers</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Boheme2000px72dpi.jpg?v=1621417906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil Rollers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;" data-mce-style="text-align: center;"><strong>"I am a wild woman, it would take a warrior to tame my spirit."</strong></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><strong>- Nikki Rowe</strong></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><strong>☾</strong></div>
+<p>She is rich in knowledge, her intuition is strong, she is independent.  She shook off her chains of oppression and stepped into her full power.<br></p>
+<meta charset="utf-8">
+<p>This beautiful roller comes with a special blend of pure essential oils and contains energetically cleansed rainbow moonstone crystals.  Apply to the back of your neck, base of your throat, wrists, heart chakra and behind your ears.  Apply to hands and inhale while doing some deep belly breathing.</p>
+<p>Relax, breathe, and reconnect with your feminine power.  You are magic.</p>
+<p>10mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: fractionated coconut oil, rainbow moonstone</span><span>, essential oils of: </span>citrus aurantium bergamia <span>(bergamot), citrus sinensis (orange), boswellia carterii (frankincense), </span>rosa damascena (rose), <span>cananga odorata (ylang ylang), jasmina officinale (jasmine).</span></p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/6777937166491</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>BOHEME</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/6777937068187</id>
+    <published>2021-05-19T19:51:43+10:00</published>
+    <updated>2021-05-19T19:51:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/joy-soak"/>
+    <title>Joy Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Soak__Joy2000px72dpi.jpg?v=1621417904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<div style="text-align: center;"><strong>"Good things happen, love is real, we will be okay."</strong></div>
+<div style="text-align: center;"><strong>-Adam J. Kurtz</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>Indulge yourself with our lighthearted, invigorating Joy Soak.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.</p>
+<p>320g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic dried rose petals, dehydrated orange, orange essential oil, spearmint essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/6777937068187</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>JOYSOAK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/6777936904347</id>
+    <published>2021-05-19T19:51:42+10:00</published>
+    <updated>2021-05-19T19:51:42+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/moon-soak"/>
+    <title>Moon Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Soak__Moon2000px72dpi.jpg?v=1621417903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<div style="text-align: center;"><strong>"As if you were on fire from within, the moon lives in the lining of your skin."</strong></div>
+<div style="text-align: center;"><strong>-Pablo Neruda</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>Calm and reconnect with this indulgent, moon ritual soak. For the full moon, the new moon, or any moon in between.  Ease stress and increase euphoria.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.  Watch as your bath turns a beautiful shade of blue.</p>
+<p>280g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic blue butterfly pea flowers, dried lotus petals, rose buds, organic dried blue butterfly pea flower powder, jojoba oil, blue lotus essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/6777936904347</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>MOONSOAK</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166471323</id>
+    <published>2020-08-28T13:37:10+10:00</published>
+    <updated>2020-08-28T13:37:10+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/wholesale-starter-pack"/>
+    <title>Wholesale Starter Pack</title>
+    <s:type>New Releases</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/WholesaleStarterPack.png?v=1598585831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>New Releases<br>
+        <strong>Price: </strong>
+            677.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Pack includes:</p>
+<p>3x Sage Spray + tester</p>
+<p>3x Be. Spray + tester</p>
+<p>3x Joyful Spray + tester</p>
+<p>3x Moon Spray + tester</p>
+<p>---</p>
+<p>3x Calm Roller + tester</p>
+<p>3x Wellness Roller + tester</p>
+<p>3x Self Love Roller + tester</p>
+<p>3x Sleep Roller + tester</p>
+<p>---</p>
+<p>3x Peace Diffuser Blend + tester</p>
+<p>3x Focus Diffuser Blend + tester</p>
+<p>3x Joy Diffuser Blend + tester</p>
+<p>3x Luna Diffuser Blend + tester</p>
+<p>---</p>
+<p>3x Bath Soak + tester</p>
+<p>3x Rose Soak + tester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166471323</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">677.00</s:price>
+      <s:sku>WHOLESALESTARTER</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166438555</id>
+    <published>2020-08-28T13:37:08+10:00</published>
+    <updated>2020-08-28T13:37:08+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/be"/>
+    <title>Be</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Be_2000px72dpi.jpg?v=1598585830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"Quiet the mind, and the soul will speak."</strong></div>
+<div style="text-align: center;"><strong>-Ma Jaya Sati Bhagavati</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: left;">Almost everything works again if you unplug it for a bit... including you beautiful!  Be still, Be present, just Be.  <br>
+</div>
+<div style="text-align: left;"></div>
+<p>Mist this beautiful blend across your upper body before meditation or when you need some grounding.  It's also useful to mist your meditation space to prepare the energy of the room.</p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: purified water, clear quartz, leuconostoc (radish root ferment), essential oils: citrus aurantium bergamia (bergamot), </span><span>boswellia carterii (frankincense), picea mariana (black spruce), cananga odorata </span><span>(ylang ylang), cedars atlantica (cedarwood).</span></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166438555</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>BE</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166373019</id>
+    <published>2020-08-28T13:37:07+10:00</published>
+    <updated>2020-08-28T13:37:07+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/full-moon-ritual-blend"/>
+    <title>Full Moon Ritual Blend</title>
+    <s:type>New Releases</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_FullMoon_2000px72dpi.jpg?v=1598585828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>New Releases<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>'Release what's holding you back.'</strong></div>
+<div style="text-align: center;"><span style="color: #000000;"><strong>☾</strong></span></div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: center;"><strong></strong></div>
+<p>The Full Moon and the week leading up to it can bring some crazy energy with it.  However, it's the best time to light up intentions and bring some action to them, allowing them to fully manifest.  It's a magical time to activate the Law of Attraction.</p>
+<p>A key to bringing your intentions to life is in the releasing of blocks and things that may be holding you back.  This blend has been intuitively and specifically blended for this purpose and is the perfect companion to your <span style="color: #a64d79;"><a href="https://botanistaromatherapy.com/collections/diffuser-blends/products/new-moon-ritual-blend" style="color: #a64d79;">'New Moon' Ritual Blend.</a></span></p>
+<p>Rituals are a beautiful way to develop a deeper connection to the Universe within.  Show up with an open heart, an open mind, and the willingness to be open to all possibilities.</p>
+<p>This limited edition blend is made on the Full Moon and is only available in small quantities each month.  Due to it's potent and rich list of ingredients, it has been diluted to 50% with pure organic sweet almond oil. </p>
+<p><strong>My intention is that it will be used intuitively in your Full Moon rituals, applied to your body during self massage and meditation, inhaled, diffused, and applied to your list of intentions to recharge them.</strong></p>
+<p>It is a good idea to clear your space prior to starting your rituals.  This can be done by misting your<span> </span><span><span style="color: #a64d79;"><a href="https://botanistaromatherapy.com/collections/sprays/products/sage-spray" style="color: #a64d79;">Sage spray</a></span>, diffusing your <span style="color: #a64d79;"><a href="https://botanistaromatherapy.com/collections/diffuser-blends/products/sage-diffuser-blend" style="color: #a64d79;">Sage diffuser blend</a></span> or by lighting your favourite smudge stick.</span></p>
+<meta charset="utf-8">
+<p class="direction-ltr align-end para-style-body"> 10mL</p>
+<p class="direction-ltr align-end para-style-body"><span>ingredients: sweet almond oil, </span><span>citrus aurantifolia (lime), </span><span>salvia sclaria </span><span>(clary sage), </span><span>boswellia carterii (frankincense), </span><span>cananga odorata (ylang ylang), </span><span>pogostemon cablin (patchouli), </span><span>jasmina officinale (jasmine), </span><span>rosa damascena (rose).</span></p>
+<meta charset="utf-8">
+<p class="direction-ltr align-end para-style-body"><span>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects.  Please seek advice from your physician if you are pregnant or breastfeeding.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166373019</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">22.00</s:price>
+      <s:sku>FULLMOON</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166340251</id>
+    <published>2020-08-28T13:37:05+10:00</published>
+    <updated>2020-08-28T13:37:05+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/new-moon-ritual-blend"/>
+    <title>New Moon Ritual Blend</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_NewMoon_2000px72dpi.jpg?v=1598585826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><strong>'For setting one's intentions'</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>The New Moon is an invitation to start fresh, set intentions and connect with the energy of the moon.</p>
+<p>Rituals are a beautiful way to develop a deeper connection to the Universe within.  Show up with an open heart, an open mind, and the willingness to be open to all possibilities.</p>
+<p>This limited edition blend is made on the New Moon and is only available in small quantities each month.  Due to it's potent and rich list of ingredients, it has been diluted to 50% with pure organic sweet almond oil. </p>
+<p><strong>My intention is that it will be used intuitively in your New Moon rituals, applied to your body during self massage and meditation, inhaled, diffused, and applied to your list of intentions to charge them.</strong></p>
+<p>A perfect companion to your <span style="color: #a64d79;"><a href="https://botanistaromatherapy.com/collections/diffuser-blends/products/full-moon-ritual-blend" style="color: #a64d79;">'Full Moon' Ritual Blend</a>. </span></p>
+<p>It is a good idea to clear your space prior to starting your rituals.  This can be done by misting your <span style="color: #a64d79;"><a href="https://botanistaromatherapy.com/collections/sprays/products/sage-spray" style="color: #a64d79;">Sage spray</a>, <span style="color: #000000;">diffusing your</span> <a href="https://botanistaromatherapy.com/collections/diffuser-blends/products/sage-diffuser-blend" style="color: #a64d79;">Sage diffuser blend</a> <span style="color: #000000;">or by lighting your favourite smudge stick.</span></span></p>
+<p> </p>
+<p><span style="color: #a64d79;"><span style="color: #000000;">Ingredients:  </span></span>sweet almond oil, <span>citrus sinensis (orange), </span><span>salvia officinalis (sage), </span><span>picea mariana (black spruce), </span><span>lavandula augustifolia (lavender), </span><span>rosa damascena (rose), </span><span>commiphora myrrha (myrrh).</span></p>
+<meta charset="utf-8">
+<p><span>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects.  Please seek advice from your physician if you are pregnant or breastfeeding.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166340251</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">22.00</s:price>
+      <s:sku>NEWMOON</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166307483</id>
+    <published>2020-08-28T13:37:01+10:00</published>
+    <updated>2020-08-28T13:37:01+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/rose-salts"/>
+    <title>Rose Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Soak_Rose_2000px72dpi.jpg?v=1598585824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Indulge and relax with this feminine and sensual, rose infused magnesium soak. </p>
+<p>Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the rose petal powder smooths skin.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or a cup of herbal tea for the ultimate evening bath.</p>
+<p>120g</p>
+<p>Ingredients: magnesium chloride, sodium chloride (pink himalayan salt), rosa centifolia (organic pink rose petal powder), dried flowers: rosa centifolia (rose), pure essential oil: pelargonium roseum (rose geranium).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166307483</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">9.00</s:price>
+      <s:sku>ROSESOAK100</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166143643</id>
+    <published>2020-08-28T13:37:00+10:00</published>
+    <updated>2020-08-28T13:37:00+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/sage-diffuser-blend"/>
+    <title>Sage Diffuser Blend</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Sage_2000px72dpi.jpg?v=1598585821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><strong>"Your personal sage smudge in a bottle."</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Our Sage essential oil diffuser blend is perfect for cleansing your space of negative energy.  Your personal sage smudge in a bottle.  </p>
+<p>This blend is particularly useful for eradicating unpleasant odours. Not suitable for use during pregnancy.</p>
+<meta charset="utf-8">
+<p>Add 4-10 drops to your diffuser and run for 30-60 minutes.</p>
+<p>I love to use this blend to clear the space prior to performing any rituals, such as Full and New Moon rituals or vision boarding.  I find it really allows my optimism and creativity to flow.</p>
+<p>10mL</p>
+<p>Ingredients: salvia officinalis (sage), prunus amygdalus dulcis (sweet almond oil), bursera graveoleus (palo santo), cymbopogon flexuosus (lemongrass), romarinus officinalis (rosemary), melaleuca alternifolia (tea tree), lavandula augustifolia (lavender), myrtus communis (myrtle).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166143643</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>SAGEDB</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166045339</id>
+    <published>2020-08-28T13:36:58+10:00</published>
+    <updated>2020-08-28T13:36:58+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/focus-diffuser-blend"/>
+    <title>Focus</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Focus_2000px72dpi.jpg?v=1598585819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">
+<meta charset="utf-8">
+<div><strong>"Be about actions, not distractions"</strong></div>
+<div><strong>☾</strong></div>
+<p style="text-align: left;">You have a million things on your to do list but you're feeling the pressure to be more mindful, more present.  How can you lean in to your magic when there are so many distractions?</p>
+<p style="text-align: left;">Raise your motivation levels and maintain concentration.  'Focus' is great for memory recall and ideal for use during work or study.  May relieve symptoms of nervous tension.  </p>
+<p style="text-align: left;">Directions: Add 4-10 drops to your diffuser.</p>
+<p style="text-align: left;">Allow your magic to flow once you ground and focus. ★</p>
+<p style="text-align: left;">10mL</p>
+<p style="text-align: left;">Ingredients:  essential oils of:  romarinus officinalis (rosemary), cymbopogon flexuosus (lemongrass), mentha piperita (peppermint), citrus aurantifolia (lime), picea mariana (black spruce), piper nigrum (black pepper).</p>
+<p style="text-align: left;">Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166045339</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>FOCUSDB</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165947035</id>
+    <published>2020-08-28T13:36:56+10:00</published>
+    <updated>2020-08-28T13:36:56+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/jasmine-roller"/>
+    <title>Jasmine</title>
+    <s:type>New Releases</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Jasmine2000px72dpi.jpg?v=1621420448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>New Releases<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"Some women fear the fire, some women simply become it."</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<div style="text-align: center; padding-left: 30px;"></div>
+<div></div>
+<p>Mother Nature has made the most rich and sensual perfume from 'plants that wake when others sleep'.  Jasmine is known for being an aphrodisiac and is associated with love, beauty &amp; sensuality.  Apply to pulse points as you would with regular perfume, be sure to inhale and remember the goddess that you are.  </p>
+<p>This beautiful 10ml roller comes with a special blend of pure essential oils and contains energetically cleansed rose quartz crystals.</p>
+<p>Ingredients include: Fractionated Coconut Oil, Rose Quartz Crystal, Jasmina Officinale Grandiflorum (Jasmine Essential Oil)</p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165947035</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">22.00</s:price>
+      <s:sku>JASMINE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165848731</id>
+    <published>2020-08-28T13:36:54+10:00</published>
+    <updated>2020-08-28T13:36:54+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/rose-perfume-roller"/>
+    <title>Rose</title>
+    <s:type>New Releases</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Rose2000px72dpi.jpg?v=1621420535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>New Releases<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"She might be built for seduction, but she was made for love."</strong></div>
+<div style="text-align: center;"><strong>- Jonny Ox</strong></div>
+<div style="text-align: center;">☾</div>
+<meta charset="utf-8">
+<p>Rose enhances the mood, "The Queen of flowers" evokes a sense of enchantment and is considered a symbol of balance &amp; harmony.  Intoxicating and romantic, rose is one of the most precious oils in the world.  Apply to pulse points as your daily perfume.</p>
+<p>This beautiful roller comes with pure essential oils and contains energetically cleansed rose quartz crystals.</p>
+<p>10mL</p>
+<p>Ingredients include: Fractionated Coconut Oil, Rose Quartz Crystal, Rosa Damascena (Bulgarian rose oil).</p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165848731</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">33.00</s:price>
+      <s:sku>ROSE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165750427</id>
+    <published>2020-08-28T13:36:52+10:00</published>
+    <updated>2020-08-28T13:36:52+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/luna"/>
+    <title>Luna</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Luna_2000px72dpi.jpg?v=1598585814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<meta charset="utf-8">
+<strong>"You may say I'm a dreamer, but I'm not the only one"</strong>
+</div>
+<div style="text-align: center;"><strong>- John Lennon</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<div style="text-align: center;"><strong></strong></div>
+<p>Who wouldn't wish to not only fall asleep, but to fall asleep happy.</p>
+<p>Calm the thoughts in your mind and drift off to sleep with feelings of contentment.  Can be useful to diffuse in the lead up to children's bedtime and calm the entire family in the evening hours.</p>
+<p>Add 4-10 drops to your diffuser or inhale directly.</p>
+<p>10mL</p>
+<p> </p>
+<p>FRAGRANT INFLUENCE:</p>
+<p>Lavender:  Calming, relaxing, and balancing, both physically and emotionally.</p>
+<p>Mandarin: Calming, relaxing, promotes feelings of contentment, uplifting, curbs stress-induced insomnia.</p>
+<p>Cedarwood:  Stimulates the pineal gland, which releases melatonin.  Recognized for its calming, purifying properties.</p>
+<p>Frankincense:  Increases spiritual awareness, promotes meditation, improves attitude, and uplifts spirits.</p>
+<p> </p>
+<p><span>ingredients: 100% pure essential oils of: lavandula augustifolia (lavender), citrus reticulata (mandarin), cedars atlantica (cedarwood), boswellia carterii (frankincense).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165750427</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>LUNA</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165684891</id>
+    <published>2020-08-28T13:36:51+10:00</published>
+    <updated>2020-08-28T13:36:51+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/joy"/>
+    <title>Joy</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Joy_2000px72dpi.jpg?v=1598585812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-end para-style-body" style="text-align: center;"><strong>~ Joy is her middle name ~</strong></p>
+<p class="direction-ltr align-end para-style-body" style="text-align: center;"><strong>☾</strong></p>
+<p class="direction-ltr align-end para-style-body">Bring happiness to the heart with this magnetic blend.  Uplifting, can help to balance emotions by either relaxing or stimulating as needed.  May help you to move forward and eliminate blocked personal growth.  Assists with gratitude practice and pleasant feelings in the heart, mind, and soul.</p>
+<p class="direction-ltr align-end para-style-body">Add 4-10 drops to your diffuser or inhale directly.</p>
+<p class="direction-ltr align-end para-style-body">10mL</p>
+<p class="direction-ltr align-end para-style-body"> </p>
+<p class="direction-ltr align-end para-style-body">FRAGRANT INFLUENCE:</p>
+<p class="direction-ltr align-end para-style-body">Orange:  Fresh and uplifting.  An Mie (Japan) University study found that citrus fragrances boosted immunity, induced relaxation, and reduced depression (Komori, 1995).</p>
+<p class="direction-ltr align-end para-style-body">Spearmint:  Opens and release emotional blocks and brings about a feeling of balance and a lasting sense of wellbeing.  Reduces fatigue.</p>
+<p class="direction-ltr align-end para-style-body">Ylang Ylang:  Balances male-female energies, enhances spiritual attunement, combats anger, combats low self esteem, increases focus of thoughts, filters out negative energy, restores confidence and peace.</p>
+<p class="direction-ltr align-end para-style-body">Rose:  It helps bring balance and harmony, allowing one to overcome insecurities.  The effect of rose on the heart brings good cheer with calming and a lightness of spirit.  The oil of love.</p>
+<p class="direction-ltr align-end para-style-body"> </p>
+<p class="direction-ltr align-end para-style-body"><span>ingredients: pure</span><span> essential oils of: citrus </span><span>sinensis (orange), mentha spicata (spearmint), cananga odorata </span><span>(ylang ylang), rosa </span><span>damascena (rose).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165684891</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>JOY</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165619355</id>
+    <published>2020-08-28T13:36:49+10:00</published>
+    <updated>2020-08-28T13:36:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/wish"/>
+    <title>Wish</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Wish_2000px72dpi.jpg?v=1598585810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<meta charset="utf-8">
+<strong>"You are not a drop in the ocean, you are the entire ocean in a drop</strong><strong>"</strong>
+</div>
+<div style="text-align: center;"><strong>- Rumi</strong></div>
+<p class="direction-ltr align-end para-style-body" style="text-align: center;"> ☾</p>
+<p class="direction-ltr align-end para-style-body">Uplift and give clarity to your thoughts, support self belief and confidence.  Awaken awareness and visualise your goals and dreams more vividly.  Restore feelings of hope and support meditation and manifesting your desires.</p>
+<p class="direction-ltr align-end para-style-body">You are more powerful than you realise, sometimes you just need to believe.</p>
+<p class="direction-ltr align-end para-style-body">Add 4-10 drops to your diffuser or inhale directly.</p>
+<p class="direction-ltr align-end para-style-body">10mL</p>
+<p class="direction-ltr align-end para-style-body">FRAGRANT INFLUENCE:</p>
+<meta charset="utf-8">
+<p class="direction-ltr align-end para-style-body"><span>Black Spruce:  Releases emotional blocks, bringing about a feeling of balance and grounding.</span></p>
+<p class="direction-ltr align-end para-style-body">Balsam Fir:  Grounding, stimulating to the mind, and relaxing to the body.</p>
+<p class="direction-ltr align-end para-style-body">Bergamot:  Mood lifting qualities.  May help relieve scattered thoughts while promoting focus and clarity.</p>
+<p class="direction-ltr align-end para-style-body">Frankincense:  Increases spiritual awareness, promotes meditation, improves attitude, and uplifts spirits.</p>
+<p class="direction-ltr align-end para-style-body">Coriander:  Soothing and calming.</p>
+<p class="p1"><span class="s1">Ylang Ylang:  Balances male-female energies, enhances spiritual attunement, combats anger, combats low self esteem, increases focus of thoughts, filters out negative energy, restores confidence and peace.</span></p>
+<meta charset="utf-8">
+<p class="direction-ltr align-end para-style-body"><span>Rose: It helps bring balance and harmony, allowing one to overcome insecurities.  The effect of rose on the heart brings good cheer with calming and a lightness of spirit.  The oil of love.</span></p>
+<p class="direction-ltr align-end para-style-body"> </p>
+<p class="direction-ltr align-end para-style-body"><span>ingredients: 100% pure essential oils of: picea mariana (black spruce), abies balsamea (balsam fir), citrus aurantium bergamia (bergamot), boswellia carterii (frankincense), </span><span>coriandrum sativum (coriander), </span><span>cananga odorata (ylang ylang), </span><span>rosa damascena (rose)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165619355</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>WISH</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165488283</id>
+    <published>2020-08-28T13:36:47+10:00</published>
+    <updated>2020-08-28T13:36:47+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/peace"/>
+    <title>Peace</title>
+    <s:type>Diffuser Blends</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Diffuser_Peace_2000px72dpi.jpg?v=1598585808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Diffuser Blends<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<meta charset="utf-8">
+<strong>~ Peace begins from within, if you are not peaceful inside,</strong>
+</div>
+<div style="text-align: center;"><strong>the world you see will be chaotic ~</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>Our dream is to go about our day wrapped in feelings of peace, contentment, flow and calm.  Almost like a post-meditation bliss, this blend is the closest thing we have found to that feeling.</p>
+<p>Fill your home or office with the calming aroma of 'Peace'.  Promotes relaxation, patience and emotional wellbeing, easing tensions and calming overactive minds and energies.  Balance emotions and relieve worries.</p>
+<p>Place 4-10 drops into your diffuser or inhale directly.</p>
+<p>10mL</p>
+<p>Flow like a goddess (because you obviously are!)</p>
+<p> </p>
+<p>FRAGRANT INFLUENCE:</p>
+<p>Tangerine:  Promotes happiness, calming, helps with nervousness.  An Mie (Japan) University study found that citrus fragrances boosted immunity, induced relaxation, and reduced depression (Komori, 1995).</p>
+<p>Black Spruce:  Releases emotional blocks, bringing about a feeling of balance and grounding.</p>
+<p>Lavender:  Calming, relaxing, and balancing, both physically and emotionally.</p>
+<p>Lime:  Mood uplifter.</p>
+<p>Ylang Ylang:  Balances male-female energies, enhances spiritual attunement, combats anger, combats low self esteem, increases focus of thoughts, filters out negative energy, restores confidence and peace.</p>
+<p>Frankincense:  Increases spiritual awareness, promotes meditation, improves attitude, and uplifts spirits.</p>
+<p>Amyris:  Lifts away stress and anxiety, provides grounding and soothing qualities.  Lifts the spirit and helps instill a sense of calm.</p>
+<p><span>ingredients: 100% pure essential oils of: citrus reticulata (tangerine), picea mariana (black spruce), lavandula augustifolia (lavender), citrus aurantifolia (lime), cananga odorata (ylang ylang), boswellia carterii (frankincense), amyris balsamifera (amyris)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165488283</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">18.50</s:price>
+      <s:sku>PEACE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165389979</id>
+    <published>2020-08-28T13:36:43+10:00</published>
+    <updated>2020-08-28T13:36:43+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/bath-soak"/>
+    <title>Bath Soak</title>
+    <s:type>Bath Range</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Soak_Bath_2000px72dpi.jpg?v=1598585806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Bath Range<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<section class="description" data-hook="product-page-description" ng-if="descriptionVM.description">
+<div class="description-wrapper">
+<div class="content-wrapper" aria-live="assertive" data-hook="product-page-description-content-wrapper" ng-style="{'max-height': descriptionVM.getContentHeightStyle()}">
+<p>Indulge yourself with our soothing, relaxing Bath Soak.  Pour your desired amount into a bath and relax while the magnesium soothes tired muscles and the flowers are a visual reminder to enjoy this moment of self love.  Himalayan salt promotes sleep, detoxification and stress reduction.  Pair with a glass of wine or cup of herbal tea for the ultimate evening bath.</p>
+<p>120g</p>
+<p>Ingredients: magnesium chloride flakes, pink himalayan salt, organic dried flowers (lavender, chamomile, rose, calendula), lavender essential oil, tangerine essential oil.</p>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165389979</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">9.00</s:price>
+      <s:sku>BATHSOAK-100gnetwt</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165258907</id>
+    <published>2020-08-28T13:36:40+10:00</published>
+    <updated>2020-08-28T13:36:40+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/calm"/>
+    <title>Calm</title>
+    <s:type>Essential Oil Rollers</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Calm2000px72dpi.jpg?v=1621420317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil Rollers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"You are the sky.  Everything else - it's just the weather."</strong></div>
+<div style="text-align: center;"><strong>- Pema Chödrön</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<p>We all experience times of stress and overwhelm and how it can de-rail our day.  We hear you and support you to get back to your powerful, goddess-self.</p>
+<meta charset="utf-8">
+<p>This beautiful roller comes with a special blend of pure essential oils and contains energetically cleansed amethyst crystals.  Apply to the back of your neck, wrists, heart chakra or temples.  Apply to hands and inhale while doing some deep belly breathing.</p>
+<p>Relax, breathe, and reconnect with your intuition.  You are knowing.</p>
+<p>10mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: fractionated coconut oil, </span><span>amethyst, essential oils of: citrus reticulata (tangerine), citrus sinensis (orange), cananga odorata (ylang ylang), picea mariana (black spruce), lavandula augustifolia (lavender), tanacetum annuum (blue tansy).</span></p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165258907</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>CALM</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165160603</id>
+    <published>2020-08-28T13:36:38+10:00</published>
+    <updated>2020-08-28T13:36:38+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/wellness"/>
+    <title>Wellness</title>
+    <s:type>Essential Oil Rollers</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Wellness2000px72dpi.jpg?v=1621420658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil Rollers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div eza="cwidth:659px;;cheight:76px;;wcalc_source:child;wcalc:94px;wocalc:94px;hcalc:532px;rend_px_area:50084;" cwidth="659" style="text-align: center;"><strong>"To keep the body in good health is a duty otherwise we shall not be able to keep our mind strong and clear."</strong></div>
+<div class="author" eza="cwidth:659px;;cheight:24px;;wcalc_source:child;wcalc:45px;wocalc:45px;hcalc:24px;rend_px_area:15816;" cwidth="659" style="text-align: center;"><strong>- Buddha</strong></div>
+<div class="author" eza="cwidth:659px;;cheight:24px;;wcalc_source:child;wcalc:45px;wocalc:45px;hcalc:24px;rend_px_area:15816;" cwidth="659" style="text-align: center;">☾</div>
+<p>Perfect to apply as extra protection coming into the cooler months.  Assists to support a healthy immune system.  </p>
+<meta charset="utf-8">
+<p>This beautiful roller comes with a special blend of pure essential oils and contains energetically cleansed amethyst crystal.</p>
+<p>10mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: fractionated coconut oil, </span><span>amethyst, syzygium aromaticum (clove), citrus limon (lemon), cinnamomum zeylanicum (cinnamon), eucalyptus radiata (eucalyptus), omarinus officinalis (rosemary), copaifera reticulata (copaiba), </span><span>satureja montana (mountain savory), origanum vulgare (oregano).</span></p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>Apply to soles of feet, chest, back &amp; neck</span></p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165160603</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>WELLNESS</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545165062299</id>
+    <published>2020-08-28T13:36:35+10:00</published>
+    <updated>2020-08-28T13:36:35+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/sleep"/>
+    <title>Sleep</title>
+    <s:type>Essential Oil Rollers</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__Sleep2000px72dpi.jpg?v=1621420618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil Rollers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"Sleep is the best meditation."</strong></div>
+<div style="text-align: center;"><strong>- Dalai Lama</strong></div>
+<div style="text-align: center;">☾</div>
+<div style="text-align: center;"><strong></strong></div>
+<p>If you're not sleeping well then you can't be performing well or feeling great.  Create a sense of restful peace at bedtime by applying this beauty as your head hits the pillow.  Quiet the mind and create a sense of calm.  </p>
+<meta charset="utf-8">
+<p>This beautiful roller comes with a special blend of pure essential oils and contains energetically cleansed amethyst crystals.</p>
+<p>10mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: fractionated coconut oil, </span><span>amethyst, lavandula augustifolia (lavender), cedars atlantica (cedarwood), </span><span>chamaemelum nobile (roman chamomile).</span></p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body">Apply to your temples and forehead, wrists, chest or soles of feet.  Apply to hands and inhale for extra benefit. <br></p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545165062299</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>SLEEP</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164963995</id>
+    <published>2020-08-28T13:36:33+10:00</published>
+    <updated>2020-08-28T13:36:33+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/self-love"/>
+    <title>Self Love</title>
+    <s:type>Essential Oil Rollers</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Autumn2021-Roller__SelfLove2000px72dpi.jpg?v=1621420581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil Rollers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p style="text-align: center;"><strong>"You have been criticising yourself for years, and it hasn’t worked. Try approving of yourself and see what happens.”</strong><br><strong>– Louise L. Hay</strong></p>
+<p style="text-align: center;">☾</p>
+<p style="text-align: left;">Perfect to apply when you are needing a little self love.  This is an uplifting blend that can help to lift your self esteem and remind you to fill your cup.  Take a moment to appreciate all that you are and all that you can be.  I particularly like this blend to use during meditation or as my daily perfume.</p>
+<meta charset="utf-8">
+<p>This beautiful glass roller contains a special blend of essential oils and energetically cleansed rose quartz crystal.</p>
+<p>10mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: fractionated coconut oil, </span><span>rose quartz, boswellia carterii (frankincense), citrus aurantium bergamia (bergamot), lavandula augustifolia (lavender), cananga oderata (ylang ylang), coriandrum sativum (coriander), abies balsamea (balsam fir), pelargonium graveolens (geranium).</span></p>
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>apply to wrists, behind ears, chest &amp; neck</span></p>
+<p>Please note:  As every person is individual please start slow with essential oils and cease use immediately if you notice any negative effects. </p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>essential oil rollers</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164963995</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">15.00</s:price>
+      <s:sku>SELFLOVE</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164865691</id>
+    <published>2020-08-28T13:36:31+10:00</published>
+    <updated>2020-08-28T13:36:31+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/linen"/>
+    <title>Moon</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Moon_2000px72pdi.jpg?v=1598585793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>~ The sun and the moon sometimes argue</strong></div>
+<div style="text-align: center;"><strong>over who will tuck me in at night ~</strong></div>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Our busy, full lives often get in the way of experiencing the peaceful evening energy.  We were once so connected to the moon and many of us are reconnecting once again.</p>
+<p>Mist to refresh sheets, pillows, baby seat, pram or whatever your heart desires for a clean &amp; relaxing energy. </p>
+<p>A restful blend of pure essential oils and Full Moon charged amethyst crystals.  Amethyst guards against nightmares and insomnia, aids meditation and visualisation, reduces hyperactivity in children, also known as nature's tranquilizer.</p>
+<p>Experience a shift in your energy and that of your place of slumber.</p>
+<p>100mL</p>
+<p>Ingredients: purified water, amethyst, leuconostoc (radish root ferment), essential oils: lavandula augustifolia (lavender), cedars atlantica (cedarwood), citrus sinensis (orange), cananga odorata (ylang ylang).</p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164865691</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>LINEN</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164767387</id>
+    <published>2020-08-28T13:36:29+10:00</published>
+    <updated>2020-08-28T13:36:29+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/joyful-100ml"/>
+    <title>Joyful</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Joyful_2000px72pdi.jpg?v=1598585791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><strong>~ Add some joyful energy to your space. ~</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Your Joyful energy spray contains my favourite uplifting blend of essential oils and is infused with energetically cleansed rose quartz.  Use to cleanse or refresh your auric field or add some joyful energy to your space.</p>
+<p>Rose quartz carries a soft feminine energy of compassion and peace, tenderness and healing, nourishment and comfort. It speaks directly to the Heart Chakra, dissolving emotional wounds, fears and resentments, and circulates a Divine loving energy throughout the entire aura. <strong>Reawakening the heart to its own innate love, it provides a deep sense of personal fulfillment and contentment, allowing one the capacity to truly give and receive love from others.</strong></p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p><span>ingredients: purified water, rose quartz, leuconostoc (radish root ferment), pure essential oils: citrus sinensis (orange), mentha spicata (spearmint), citrus aurantium bergamia (bergamot), cananga odorata (ylang ylang), pelargonium graveolens (geranium), citrus limon (lemon), coriandrum sativum (coriander), citrus reticulata (tangerine), jasmina officinale (jasmine), chamaemelum nobile (roman chamomile), cymbopogon martinii (palmarosa), rosa damascena (rose).</span><br></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164767387</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>JOYFUL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164669083</id>
+    <published>2020-08-28T13:36:27+10:00</published>
+    <updated>2020-08-28T13:36:27+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/sage-spray"/>
+    <title>Sage</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Sage_2000px72pdi.jpg?v=1598585788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><strong>"Your personal sage smudge in a bottle."</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Sage energy spray is perfect for cleansing your space of negative energy.  Your personal sage smudge in a bottle.  Mist the room when visitors leave or spray on yourself to cleanse your aura.</p>
+<p>This blend contains the power of essential oils plus it is infused with energetically cleansed black tourmaline.  </p>
+<p>Black tourmaline is a powerful grounding stone, electrical in nature, providing a connection between Earth and the human spirit. It's supportive energy aligns the energy centers of the body and channels healing light throughout the system.  Useful for providing protection and elimination of negative energy.</p>
+<p>You're far too special to carry around unwanted, stale energy.  Release the negativity and step into your true self.</p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p><span>ingredients: purified water, black tourmaline, leuconostoc (radish root ferment), essential oils: salvia officinalis (sage), bursera graveolens (palo santo), cymbopogon nardus (citronella), romarinus officinalis (rosemary), cymbopogon flexuosus (lemongrass), melaleuca alternifolia (tea tree), lavandula augustifolia (lavender), myrtus communis (myrtle).</span><br></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164669083</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SAGE</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

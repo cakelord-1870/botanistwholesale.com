@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://botanistwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://botanistwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://botanistwholesale.com/collections/frontpage.atom"/>
+  <title>Botanist Wholesale</title>
+  <updated>2020-08-28T13:37:08+10:00</updated>
+  <author>
+    <name>Botanist Wholesale</name>
+  </author>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545166438555</id>
+    <published>2020-08-28T13:37:08+10:00</published>
+    <updated>2020-08-28T13:37:08+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/be"/>
+    <title>Be</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Be_2000px72dpi.jpg?v=1598585830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div style="text-align: center;"><strong>"Quiet the mind, and the soul will speak."</strong></div>
+<div style="text-align: center;"><strong>-Ma Jaya Sati Bhagavati</strong></div>
+<div style="text-align: center;"><strong>☾</strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: left;">Almost everything works again if you unplug it for a bit... including you beautiful!  Be still, Be present, just Be.  <br>
+</div>
+<div style="text-align: left;"></div>
+<p>Mist this beautiful blend across your upper body before meditation or when you need some grounding.  It's also useful to mist your meditation space to prepare the energy of the room.</p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-end para-style-body"><span>ingredients: purified water, clear quartz, leuconostoc (radish root ferment), essential oils: citrus aurantium bergamia (bergamot), </span><span>boswellia carterii (frankincense), picea mariana (black spruce), cananga odorata </span><span>(ylang ylang), cedars atlantica (cedarwood).</span></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545166438555</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>BE</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164865691</id>
+    <published>2020-08-28T13:36:31+10:00</published>
+    <updated>2020-08-28T13:36:31+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/linen"/>
+    <title>Moon</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Moon_2000px72pdi.jpg?v=1598585793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><strong>~ The sun and the moon sometimes argue</strong></div>
+<div style="text-align: center;"><strong>over who will tuck me in at night ~</strong></div>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Our busy, full lives often get in the way of experiencing the peaceful evening energy.  We were once so connected to the moon and many of us are reconnecting once again.</p>
+<p>Mist to refresh sheets, pillows, baby seat, pram or whatever your heart desires for a clean &amp; relaxing energy. </p>
+<p>A restful blend of pure essential oils and Full Moon charged amethyst crystals.  Amethyst guards against nightmares and insomnia, aids meditation and visualisation, reduces hyperactivity in children, also known as nature's tranquilizer.</p>
+<p>Experience a shift in your energy and that of your place of slumber.</p>
+<p>100mL</p>
+<p>Ingredients: purified water, amethyst, leuconostoc (radish root ferment), essential oils: lavandula augustifolia (lavender), cedars atlantica (cedarwood), citrus sinensis (orange), cananga odorata (ylang ylang).</p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164865691</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>LINEN</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164767387</id>
+    <published>2020-08-28T13:36:29+10:00</published>
+    <updated>2020-08-28T13:36:29+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/joyful-100ml"/>
+    <title>Joyful</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Joyful_2000px72pdi.jpg?v=1598585791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><strong>~ Add some joyful energy to your space. ~</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Your Joyful energy spray contains my favourite uplifting blend of essential oils and is infused with energetically cleansed rose quartz.  Use to cleanse or refresh your auric field or add some joyful energy to your space.</p>
+<p>Rose quartz carries a soft feminine energy of compassion and peace, tenderness and healing, nourishment and comfort. It speaks directly to the Heart Chakra, dissolving emotional wounds, fears and resentments, and circulates a Divine loving energy throughout the entire aura. <strong>Reawakening the heart to its own innate love, it provides a deep sense of personal fulfillment and contentment, allowing one the capacity to truly give and receive love from others.</strong></p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p><span>ingredients: purified water, rose quartz, leuconostoc (radish root ferment), pure essential oils: citrus sinensis (orange), mentha spicata (spearmint), citrus aurantium bergamia (bergamot), cananga odorata (ylang ylang), pelargonium graveolens (geranium), citrus limon (lemon), coriandrum sativum (coriander), citrus reticulata (tangerine), jasmina officinale (jasmine), chamaemelum nobile (roman chamomile), cymbopogon martinii (palmarosa), rosa damascena (rose).</span><br></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164767387</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>JOYFUL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://botanistwholesale.com/products/5545164669083</id>
+    <published>2020-08-28T13:36:27+10:00</published>
+    <updated>2020-08-28T13:36:27+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://botanistwholesale.com/products/sage-spray"/>
+    <title>Sage</title>
+    <s:type>Crystal Infused Sprays</s:type>
+    <s:vendor>Botanist Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0471/5642/8955/products/BotanistA-Collection-Spray_Sage_2000px72pdi.jpg?v=1598585788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Botanist Aromatherapy<br>
+        <strong>Type: </strong>Crystal Infused Sprays<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><strong>"Your personal sage smudge in a bottle."</strong></p>
+<p style="text-align: center;"><strong>☾</strong></p>
+<p>Sage energy spray is perfect for cleansing your space of negative energy.  Your personal sage smudge in a bottle.  Mist the room when visitors leave or spray on yourself to cleanse your aura.</p>
+<p>This blend contains the power of essential oils plus it is infused with energetically cleansed black tourmaline.  </p>
+<p>Black tourmaline is a powerful grounding stone, electrical in nature, providing a connection between Earth and the human spirit. It's supportive energy aligns the energy centers of the body and channels healing light throughout the system.  Useful for providing protection and elimination of negative energy.</p>
+<p>You're far too special to carry around unwanted, stale energy.  Release the negativity and step into your true self.</p>
+<p>100mL</p>
+<meta charset="utf-8">
+<p><span>ingredients: purified water, black tourmaline, leuconostoc (radish root ferment), essential oils: salvia officinalis (sage), bursera graveolens (palo santo), cymbopogon nardus (citronella), romarinus officinalis (rosemary), cymbopogon flexuosus (lemongrass), melaleuca alternifolia (tea tree), lavandula augustifolia (lavender), myrtus communis (myrtle).</span><br></p>
+<pre class="content" data-hook="product-page-description-content" ng-bind-html="descriptionVM.descriptionToHtml()"></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy sprays</s:tag>
+    <s:tag>ritual blends</s:tag>
+    <s:variant>
+      <id>https://botanistwholesale.com/products/5545164669083</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SAGE</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>
