@@ -1,5 +1,5 @@
 {
-  "name": "botanistwholesale.com",
+  "name": "dreamdiam.ca",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cakelord-1870/botanistwholesale.com.git"
+    "url": "git+https://github.com/cakelord-1870/dreamdiam.ca.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cakelord-1870/botanistwholesale.com/issues"
+    "url": "https://github.com/cakelord-1870/dreamdiam.ca/issues"
   },
-  "homepage": "https://github.com/cakelord-1870/botanistwholesale.com#readme",
+  "homepage": "https://github.com/cakelord-1870/dreamdiam.ca#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
